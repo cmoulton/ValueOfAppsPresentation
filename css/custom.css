@@ -18,7 +18,31 @@
     height: auto;
 }
 
+.reveal section img.resizeSmall
+{
+    max-width: 40%;
+    height: auto;
+}
+
 .reveal section img.padded
 {
     margin: 10px;
+}
+
+.reveal p {
+	margin-bottom: 10px;
+	font-size: 1.2em;
+	line-height: 1.2em;
+}
+
+.reveal section img.ipad {
+	float:left;
+	max-width: 45%;
+    height: auto;
+    padding: 0;
+    margin: 10px;
+}
+
+.reveal section p.small {
+	font-size: 0.7em;
 }
