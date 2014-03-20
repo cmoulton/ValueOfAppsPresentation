@@ -46,3 +46,7 @@
 .reveal section p.small {
 	font-size: 0.7em;
 }
+
+.reveal section p.secondLine {
+  font-size: 0.85em;
+}
